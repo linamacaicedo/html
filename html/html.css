@@ -1,0 +1,289 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.login-box {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: #333;
+}
+
+.input-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #333;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.forgot-password {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.forgot-password a {
+    text-decoration: none;
+    color: #888;
+    font-size: 14px;
+}
+
+.login-button {
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    margin-bottom: 20px;
+    transition: 0.3s ease;
+}
+
+.login-button:hover {
+    background: linear-gradient(135deg, #a777e3, #6e8efb);
+}
+
+.social-login {
+    margin-bottom: 20px;
+}
+
+.social-login p {
+    margin-bottom: 10px;
+    color: #666;
+}
+
+.social-buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-buttons a {
+    width: 40px;
+    height: 40px;
+    background-color: #ddd;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.facebook-btn {
+    background-color: blue;
+}
+
+.twitter-btn {
+    background-color: black;
+}
+
+.google-btn {
+    background-color: red;
+}
+
+.sign-up p {
+    color: black;
+    margin-bottom: 10px;
+}
+
+.sign-up a {
+    text-decoration: none;
+    color: #6e8efb;
+    font-weight: 600;
+}
+.facebook {
+    width: 160%;
+    height: 160%;
+}
+.x {
+    width: 100%;
+    height: 100%;
+}
+.GMAIL {
+    width: 100%;
+    height: 100%;
+}body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.login-box {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: #333;
+}
+
+.input-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #333;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.forgot-password {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.forgot-password a {
+    text-decoration: none;
+    color: #888;
+    font-size: 14px;
+}
+
+.login-button {
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    margin-bottom: 20px;
+    transition: 0.3s ease;
+}
+
+.login-button:hover {
+    background: linear-gradient(135deg, #a777e3, #6e8efb);
+}
+
+.social-login {
+    margin-bottom: 20px;
+}
+
+.social-login p {
+    margin-bottom: 10px;
+    color: #666;
+}
+
+.social-buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-buttons a {
+    width: 40px;
+    height: 40px;
+    background-color: #ddd;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.facebook-btn {
+    background-color: blue;
+}
+
+.twitter-btn {
+    background-color: black;
+}
+
+.google-btn {
+    background-color: red;
+}
+
+.sign-up p {
+    color: black;
+    margin-bottom: 10px;
+}
+
+.sign-up a {
+    text-decoration: none;
+    color: #6e8efb;
+    font-weight: 600;
+}
+.facebook {
+    width: 160%;
+    height: 160%;
+}
+.x {
+    width: 100%;
+    height: 100%;
+}
+.GMAIL {
+    width: 100%;
+    height: 100%;
+}
